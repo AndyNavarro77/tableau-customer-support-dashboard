@@ -38,7 +38,7 @@ Brindar a los equipos de **Customer Support** una herramienta que facilite:
 **Andres Navarro**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
-🌐 [Portafolio Web](https://andres-navarro-portafolio.netlify.app/)
+🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app/)
 📧 andresnavarroalvarez15@gmail.com  
 
 
