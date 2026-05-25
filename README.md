@@ -58,7 +58,7 @@ An interactive Tableau dashboard that gives support managers a clear view of cas
 
 ## 🔗 View Live Dashboard
 
-[👉 Open in Tableau Public]([https://public.tableau.com](https://public.tableau.com/app/profile/andr.s.navarro1175/viz/DashboardCap14/ServicioalCliente)
+[👉 Open in Tableau Public]([https://public.tableau.com](https://public.tableau.com/app/profile/andr.s.navarro1175/viz/DashboardCap14/ServicioalCliente))
 
 ---
 
