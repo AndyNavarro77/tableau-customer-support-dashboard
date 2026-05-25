@@ -1,45 +1,82 @@
-📊 Dashboard de Soporte al Cliente | Logo Maker
+# 📊 Customer Support Dashboard — Ticket Management | Logo Maker
 
-Este proyecto presenta un panel interactivo orientado a **evaluar el rendimiento del soporte al cliente** en la empresa *Logo Maker*. El dashboard permite a los equipos de atención al cliente monitorear su desempeño, detectar cuellos de botella y priorizar casos con mayor impacto.
+> **Interactive Tableau dashboard monitoring customer support performance — tracking open cases, resolution time and operational bottlenecks to improve team efficiency and customer satisfaction.**
 
-🧠 Descripción del Análisis
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-A través del uso de **KPIs clave** y **parámetros dinámicos**, el panel permite:
+---
 
-- Analizar los **casos abiertos en los últimos 30 días**.
-- Medir la **variación mensual de volumen de casos** (%).
-- Visualizar los **días que un caso permanece abierto**, con filtros personalizados.
-- Detectar **cuellos de botella operativos**.
-- Priorizar tickets según impacto o duración.
+## 🧠 The Business Problem
 
-🎯 Objetivo
+Customer support teams without real-time visibility into ticket volume, resolution time and bottlenecks struggle to prioritize effectively — leading to delayed responses, customer dissatisfaction and hidden operational costs.
 
-Brindar a los equipos de **Customer Support** una herramienta que facilite:
+---
 
-- La **gestión eficiente de casos**.
-- La **detección temprana de problemas operativos**.
-- La **toma de decisiones basada en datos** para mejorar la satisfacción del cliente.
+## ✅ The Solution
 
-🛠️ Herramientas Utilizadas
+An interactive Tableau dashboard that gives support managers a clear view of case volume trends, average resolution time and priority tickets — enabling faster decisions and proactive team management.
 
-- **Tableau** para la creación del dashboard.
-- **Parámetros personalizados** para exploración interactiva.
-- Cálculos de KPIs como `DATEDIFF`, `IF`, y tasas de variación mensual.
+---
 
-🚀 Cómo Usarlo
+## 📊 Key Metrics Monitored
 
-1. Ajustá los parámetros para filtrar casos por duración o fecha.
-2. Observá la evolución de los tickets abiertos.
-3. Identificá puntos críticos y prioridades operativas.
-4. Utilizá el análisis para mejorar la eficiencia del equipo.
+- **Open cases in the last 30 days** — current workload snapshot
+- **Monthly case volume variation (%)** — trend detection
+- **Days a case remains open** — resolution efficiency
+- **Operational bottlenecks** — where cases get stuck
+- **Ticket prioritization** — by impact and duration
 
-📬 Contacto
+---
 
-**Andres Navarro**
+## 🎯 Business Impact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
-🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app/)
-📧 andresnavarroalvarez15@gmail.com  
+| Action | Outcome |
+|---|---|
+| Monitor open case trends | Detect volume spikes before they become crises |
+| Measure average resolution time | Identify process inefficiencies and improve SLA compliance |
+| Prioritize by impact and duration | Focus team effort on highest-value tickets first |
 
+---
 
+## 🛠️ Tech Stack
 
+| Tool | Usage |
+|---|---|
+| Tableau | Interactive dashboard design and publishing |
+| Calculated Fields | DATEDIFF · IF · monthly variation rate |
+| Parameters | Dynamic filtering by date range and duration |
+| Tableau Public | Published and accessible online |
+
+---
+
+## 📸 Dashboard Preview
+
+![Logo Maker Dashboard](CapturaPantallaDashboardTableau2.png)
+
+---
+
+## 🔗 View Live Dashboard
+
+[👉 Open in Tableau Public](https://public.tableau.com)
+
+---
+
+## 📁 Repository Structure
+
+```
+tableau-customer-support-dashboard/
+├── LogoMaker_Report.twb                    # Tableau workbook
+├── CapturaPantallaDashboardTableau2.png    # Dashboard preview
+├── README.md                               # English documentation
+└── README_ES.md                            # Spanish documentation
+```
+
+---
+
+## 👤 Author
+
+**Andrés Navarro** — Data Analyst · BI · Tableau
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=netlify)](https://andres-navarro-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/andrés-navarro77/)
